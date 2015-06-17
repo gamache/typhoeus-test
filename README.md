@@ -182,7 +182,7 @@ Though the exact metric differs by platform and by response/request
 characteristics (read: YMMV), the results show that
 a concurrency between 40 and 60 is a good starting point for an
 arbitrary-sized response.  From there, manual tuning (maybe even with
-[this test script](typhoeus-test.rb) can be used to arrive at optimal
+[this test script](typhoeus-test.rb)) can be used to arrive at optimal
 performance for your use case.
 
 Thanks to the authors of Typhoeus for making a great tool:

@@ -1,0 +1,82 @@
+[
+  {
+    "concurrency": 1,
+    "requests_per_second": 16.91,
+    "cpu_percentage": 3.76
+  },
+  {
+    "concurrency": 2,
+    "requests_per_second": 37.52,
+    "cpu_percentage": 3.72
+  },
+  {
+    "concurrency": 3,
+    "requests_per_second": 56.05,
+    "cpu_percentage": 4.78
+  },
+  {
+    "concurrency": 4,
+    "requests_per_second": 74.83,
+    "cpu_percentage": 5.33
+  },
+  {
+    "concurrency": 5,
+    "requests_per_second": 93.38,
+    "cpu_percentage": 7.11
+  },
+  {
+    "concurrency": 10,
+    "requests_per_second": 116.39,
+    "cpu_percentage": 7.99
+  },
+  {
+    "concurrency": 20,
+    "requests_per_second": 116.42,
+    "cpu_percentage": 7.74
+  },
+  {
+    "concurrency": 40,
+    "requests_per_second": 116.26,
+    "cpu_percentage": 8.75
+  },
+  {
+    "concurrency": 60,
+    "requests_per_second": 116.03,
+    "cpu_percentage": 11.12
+  },
+  {
+    "concurrency": 80,
+    "requests_per_second": 116.12,
+    "cpu_percentage": 11.12
+  },
+  {
+    "concurrency": 100,
+    "requests_per_second": 116.01,
+    "cpu_percentage": 13.05
+  },
+  {
+    "concurrency": 120,
+    "requests_per_second": 230.36,
+    "cpu_percentage": 21.4
+  },
+  {
+    "concurrency": 140,
+    "requests_per_second": 117.17,
+    "cpu_percentage": 13.22
+  },
+  {
+    "concurrency": 160,
+    "requests_per_second": 112.75,
+    "cpu_percentage": 14.24
+  },
+  {
+    "concurrency": 180,
+    "requests_per_second": 147.45,
+    "cpu_percentage": 16.18
+  },
+  {
+    "concurrency": 200,
+    "requests_per_second": 108.05,
+    "cpu_percentage": 11.33
+  }
+]
